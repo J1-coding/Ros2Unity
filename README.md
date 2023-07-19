@@ -1,29 +1,22 @@
-# Unity-ROS1 Integration: Pick-and-Place Simulation
+# Unity-ROS1-Pick-and-Place-Tutorial
 
-Welcome to the advanced **Unity-ROS1 Pick-and-Place Simulation** project. This repository encompasses a comprehensive tutorial and implementation guide for creating a highly accurate robotic arm manipulation simulation in Unity, utilizing the powerful Unity's Robotics Hub, in connection with ROS1 Noetic.
+This repository contains the implementation of a **Pick and Place Tutorial** using Unity's Robotics Hub and ROS1 Noetic. The project demonstrates how to set up a TCP connection between ROS and Unity to manipulate a robotic arm in a simulated environment.
 
-This project pioneers a robust mechanism that integrates Unity with ROS1, enabling sophisticated robotic manipulation simulations that can be directly applied in real-world scenarios. It offers invaluable insights for robotics researchers, simulation developers, and industry professionals, facilitating a significant leap in the understanding and application of ROS-Unity interoperations.
+The primary purpose of this project is to provide a hands-on tutorial on how to integrate ROS with Unity for robotic manipulation tasks. This project can serve as a learning resource for robotics enthusiasts and researchers interested in learning more about ROS-Unity integration.
 
-Leveraging the efficiency and consistency of Docker for ROS, we ensure seamless integration of ROS1 Noetic into the system. This integration not only provides an isolated environment but also effectively resolves potential setup and compatibility issues, marking a significant step towards the real-world application of such simulations.
+The project uses Docker for ROS to create an isolated and consistent environment for running ROS1 Noetic, hence minimizing the setup and compatibility issues. It allows the Unity environment to communicate with ROS via TCP connection, enabling the manipulation of a robot arm in Unity.
 
-Our innovative approach allows Unity and ROS to communicate via a TCP connection, thus enabling the real-time manipulation of a robotic arm within the Unity environment. This achievement opens the door for robotics developers to leverage Unity's advanced rendering and physics for prototyping and testing, which could dramatically reduce the cost and time associated with physical trials.
+A video demonstration of the project is also provided, which shows a cmd window describing the ROS process and a Unity editor window illustrating the robot arm manipulation. This visual aid is beneficial for anyone who wants to understand the project's workflow and outcomes.
 
-A video demonstration, offering a detailed walkthrough of the system, is included within this project. The video provides a comprehensive overview of the entire process, showcasing a command prompt window that reflects the ongoing ROS operations and a Unity editor window that displays the real-time manipulation of the robot arm. This visual presentation serves as a powerful learning resource for both beginners and experienced professionals alike, illuminating the nuances of the system operation.
-
-Key Components and Technologies:
-
-- Unity: The primary platform for creating the simulated environment.
-- Unity's Robotics Hub: A robust toolset for integrating Unity with various robotics software.
-- ROS1 Noetic: The backbone of our robotics operations and procedures.
-- Docker for ROS: Provides an isolated, consistent environment for running ROS1 Noetic.
-- TCP Connection: Facilitates efficient and reliable communication between ROS and Unity.
-
-Please note that this project is in active development, and we welcome any contributions, feedback, or suggestions that may further enhance its functionality and usefulness.
+Key components and technologies used:
+- Unity
+- ROS1 Noetic
+- Docker for ROS
+- TCP for ROS-Unity communication
 
 ---
-
 ## Video Demonstration
 
-For a comprehensive overview of the project's capabilities, please refer to the included video demonstration. This video provides valuable insights into the system's operation, showcasing a command prompt window outlining ROS operations and a Unity editor window illustrating real-time robot arm manipulation.
+Click on the image below to view the video:
 
-You can access the video demonstration through this [link](https://youtu.be/XwEW-qXYQpw). *(Replace 'URL' with the actual link to your video)*
+[![Video Demonstration](https://img.youtube.com/vi/XwEW-qXYQpw/0.jpg)](https://www.youtube.com/watch?v=XwEW-qXYQpw)
