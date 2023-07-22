@@ -18,5 +18,7 @@ Key components and technologies used:
 ## Video Demonstration
 
 Click on the image below to view the video:
-
 [![Video Demonstration](https://img.youtube.com/vi/XwEW-qXYQpw/0.jpg)](https://www.youtube.com/watch?v=XwEW-qXYQpw)
+<br>
+Motion Planning
+[![Video Demonstration](https://img.youtube.com/vi/QzUURw5Ii8U/0.jpg)](https://www.youtube.com/watch?v=QzUURw5Ii8U)
