@@ -28,8 +28,8 @@ Click on the image below to view the video:
       </td>
       <td align="center">
         Motion Planning<br>
-        <a href="https://www.youtube.com/watch?v=QzUURw5Ii8U">
-          <img src="https://img.youtube.com/vi/QzUURw5Ii8U/0.jpg" alt="Motion Planning" style="width:100%;">
+        <a href="https://www.youtube.com/watch?v=53JapN59ZOc">
+          <img src="https://img.youtube.com/vi/53JapN59ZOc/0.jpg" alt="Motion Planning" style="width:100%;">
         </a>
       </td>
     </tr>
